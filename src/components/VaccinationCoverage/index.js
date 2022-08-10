@@ -1,5 +1,4 @@
 import {BarChart, Bar, XAxis, YAxis, Legend} from 'recharts'
-
 import './index.css'
 
 const VaccinationCoverage = props => {
